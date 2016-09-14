@@ -18,8 +18,9 @@ distribution.
 #pragma once
 #include "Datatypes.h"
 
-struct Vector2D
+class Vector2D
 {
+public:
 	U16 x;
 	U16 y;
 	Vector2D() {};

@@ -139,8 +139,10 @@ ParamLoader::ParamLoader(const char* fileName) :
 				}
 				else
 				{
-					Character.Char.AsciiChar = (CHAR)pElement->GetText();
-					Character.Char.UnicodeChar = (CHAR)pElement->GetText();
+					std::string data = pElement->GetText();
+					CHAR chr = data.at(0);
+					Character.Char.AsciiChar = chr;
+					Character.Char.UnicodeChar = chr;
 				}
 			}
 			else

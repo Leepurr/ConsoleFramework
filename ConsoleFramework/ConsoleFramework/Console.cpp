@@ -16,10 +16,12 @@ must not be misrepresented as being the original software.
 distribution.
 */
 #include "Console.h"
-#include <iterator>
 #include "Files\ParamLoader.h"
 #include "Game\Character.h"
 #include "Game\Generic.h"
+#include <iterator>
+#include <stdexcept>
+#include <iostream>
 //#include <vld.h> //Visual Leak Detector library for checking memory leaks
 
 U16 Console::Initialise(const I16 cols, const I16 rows)
@@ -141,14 +143,16 @@ void Console::Render()
 
 void Console::GameLogic()
 {
+	/*
 	try
 	{
-		//sceneManager->GetGObjectByID("Player");
+	//sceneManager->GetGObjectByID("Player");
 	}
 	catch (const std::out_of_range& e)
 	{
 
 	}
+	*/
 }
 
 bool Console::IsKeyDown(const UChar chr)
@@ -306,6 +310,7 @@ void Console::SetBuffer()
 			}
 			catch (const std::out_of_range& e)
 			{
+				std::cerr << "Out of range: " << e.what() << '\n';
 				printf("Out of range!\n");
 				//Log if DEBUG
 			}
