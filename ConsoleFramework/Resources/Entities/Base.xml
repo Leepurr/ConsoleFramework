@@ -1,0 +1,161 @@
+<Entity>
+  <Name>Base</Name>
+  <ID>1</ID>
+  <Size Width="5" Height="3"></Size>
+  <Type>Standard</Type>
+  <Body charCount="15">
+    <Character1 attribCount="4" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_INTENSITY</Attrib2>
+      <Attrib3>FOREGROUND_BLUE</Attrib3>
+      <Attrib4>FOREGROUND_INTENSITY</Attrib4>
+    </Character1>
+    <Character2 attribCount="4" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_GREEN</Attrib1>
+      <Attrib2>BACKGROUND_INTENSITY</Attrib2>
+      <Attrib3>FOREGROUND_GREEN</Attrib3>
+      <Attrib4>FOREGROUND_INTENSITY</Attrib4>
+    </Character2>
+    <Character3 attribCount="4" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_RED</Attrib1>
+      <Attrib2>BACKGROUND_INTENSITY</Attrib2>
+      <Attrib3>FOREGROUND_RED</Attrib3>
+      <Attrib4>FOREGROUND_INTENSITY</Attrib4>
+    </Character3>
+    <Character4 attribCount="8" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_GREEN</Attrib2>
+      <Attrib3>BACKGROUND_RED</Attrib3>
+      <Attrib4>BACKGROUND_INTENSITY</Attrib4>
+      <Attrib5>FOREGROUND_BLUE</Attrib5>
+      <Attrib6>FOREGROUND_GREEN</Attrib6>
+      <Attrib7>FOREGROUND_RED</Attrib7>
+      <Attrib8>FOREGROUND_INTENSITY</Attrib8>
+    </Character4>
+    <Character5 attribCount="8" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_GREEN</Attrib2>
+      <Attrib3>BACKGROUND_RED</Attrib3>
+      <Attrib4>BACKGROUND_INTENSITY</Attrib4>
+      <Attrib5>FOREGROUND_BLUE</Attrib5>
+      <Attrib6>FOREGROUND_GREEN</Attrib6>
+      <Attrib7>FOREGROUND_RED</Attrib7>
+      <Attrib8>FOREGROUND_INTENSITY</Attrib8>
+    </Character5>
+    <Character6 attribCount="8" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_GREEN</Attrib2>
+      <Attrib3>BACKGROUND_RED</Attrib3>
+      <Attrib4>BACKGROUND_INTENSITY</Attrib4>
+      <Attrib5>FOREGROUND_BLUE</Attrib5>
+      <Attrib6>FOREGROUND_GREEN</Attrib6>
+      <Attrib7>FOREGROUND_RED</Attrib7>
+      <Attrib8>FOREGROUND_INTENSITY</Attrib8>
+    </Character6>
+    <Character7 attribCount="8" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_GREEN</Attrib2>
+      <Attrib3>BACKGROUND_RED</Attrib3>
+      <Attrib4>BACKGROUND_INTENSITY</Attrib4>
+      <Attrib5>FOREGROUND_BLUE</Attrib5>
+      <Attrib6>FOREGROUND_GREEN</Attrib6>
+      <Attrib7>FOREGROUND_RED</Attrib7>
+      <Attrib8>FOREGROUND_INTENSITY</Attrib8>
+    </Character7>
+    <Character8 attribCount="8" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_GREEN</Attrib2>
+      <Attrib3>BACKGROUND_RED</Attrib3>
+      <Attrib4>BACKGROUND_INTENSITY</Attrib4>
+      <Attrib5>FOREGROUND_BLUE</Attrib5>
+      <Attrib6>FOREGROUND_GREEN</Attrib6>
+      <Attrib7>FOREGROUND_RED</Attrib7>
+      <Attrib8>FOREGROUND_INTENSITY</Attrib8>
+    </Character8>
+    <Character9 attribCount="8" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_GREEN</Attrib2>
+      <Attrib3>BACKGROUND_RED</Attrib3>
+      <Attrib4>BACKGROUND_INTENSITY</Attrib4>
+      <Attrib5>FOREGROUND_BLUE</Attrib5>
+      <Attrib6>FOREGROUND_GREEN</Attrib6>
+      <Attrib7>FOREGROUND_RED</Attrib7>
+      <Attrib8>FOREGROUND_INTENSITY</Attrib8>
+    </Character9>
+    <Character10 attribCount="8" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_GREEN</Attrib2>
+      <Attrib3>BACKGROUND_RED</Attrib3>
+      <Attrib4>BACKGROUND_INTENSITY</Attrib4>
+      <Attrib5>FOREGROUND_BLUE</Attrib5>
+      <Attrib6>FOREGROUND_GREEN</Attrib6>
+      <Attrib7>FOREGROUND_RED</Attrib7>
+      <Attrib8>FOREGROUND_INTENSITY</Attrib8>
+    </Character10>
+    <Character11 attribCount="8" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_GREEN</Attrib2>
+      <Attrib3>BACKGROUND_RED</Attrib3>
+      <Attrib4>BACKGROUND_INTENSITY</Attrib4>
+      <Attrib5>FOREGROUND_BLUE</Attrib5>
+      <Attrib6>FOREGROUND_GREEN</Attrib6>
+      <Attrib7>FOREGROUND_RED</Attrib7>
+      <Attrib8>FOREGROUND_INTENSITY</Attrib8>
+    </Character11>
+    <Character12 attribCount="8" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_GREEN</Attrib2>
+      <Attrib3>BACKGROUND_RED</Attrib3>
+      <Attrib4>BACKGROUND_INTENSITY</Attrib4>
+      <Attrib5>FOREGROUND_BLUE</Attrib5>
+      <Attrib6>FOREGROUND_GREEN</Attrib6>
+      <Attrib7>FOREGROUND_RED</Attrib7>
+      <Attrib8>FOREGROUND_INTENSITY</Attrib8>
+    </Character12>
+    <Character13 attribCount="8" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_GREEN</Attrib2>
+      <Attrib3>BACKGROUND_RED</Attrib3>
+      <Attrib4>BACKGROUND_INTENSITY</Attrib4>
+      <Attrib5>FOREGROUND_BLUE</Attrib5>
+      <Attrib6>FOREGROUND_GREEN</Attrib6>
+      <Attrib7>FOREGROUND_RED</Attrib7>
+      <Attrib8>FOREGROUND_INTENSITY</Attrib8>
+    </Character13>
+    <Character14 attribCount="8" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_GREEN</Attrib2>
+      <Attrib3>BACKGROUND_RED</Attrib3>
+      <Attrib4>BACKGROUND_INTENSITY</Attrib4>
+      <Attrib5>FOREGROUND_BLUE</Attrib5>
+      <Attrib6>FOREGROUND_GREEN</Attrib6>
+      <Attrib7>FOREGROUND_RED</Attrib7>
+      <Attrib8>FOREGROUND_INTENSITY</Attrib8>
+    </Character14>
+    <Character15 attribCount="8" repetitive='1'>
+      <Text> </Text>
+      <Attrib1>BACKGROUND_BLUE</Attrib1>
+      <Attrib2>BACKGROUND_GREEN</Attrib2>
+      <Attrib3>BACKGROUND_RED</Attrib3>
+      <Attrib4>BACKGROUND_INTENSITY</Attrib4>
+      <Attrib5>FOREGROUND_BLUE</Attrib5>
+      <Attrib6>FOREGROUND_GREEN</Attrib6>
+      <Attrib7>FOREGROUND_RED</Attrib7>
+      <Attrib8>FOREGROUND_INTENSITY</Attrib8>
+    </Character15>
+  </Body>
+</Entity>
