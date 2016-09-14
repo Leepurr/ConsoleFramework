@@ -1,0 +1,2 @@
+# ConsoleFramework
+First public commit of the ConsoleFramework project. The goal of this project is to create a library that can be used to create games using the Win32 console. During my first year at university, I created a clone of the famous game "Space Invaders". After completing my degree, I wanted to expand the project to something better...so I decided what better way than to restart the project from scratch.  Warning this project contains some questionable code. It is currently a work in progress (Pre-Alpha).
